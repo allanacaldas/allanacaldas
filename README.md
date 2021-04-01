@@ -1,4 +1,4 @@
-### Hi there 👋
+## Hi there! I'm Allana :blush: 👋:wave: 
 
 <!--
 **allanacaldas/allanacaldas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### The end is the beginning and the beggining is the end :hourglass:
+
+[![HitCount](http://hits.dwyl.com/allanacaldas/allanacaldas.svg)](http://hits.dwyl.com/allanacaldas/allanacaldas)
+
