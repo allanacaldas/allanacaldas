@@ -4,12 +4,12 @@
 ![GitHub Logo](/assets/Sic_code_creatus_est2.png)
 
 
- - :woman_technologist: I'm a Software Developer  from  Pernambuco :sunny: - Brazil I'm a Software Developer from Pernambuco :sunny: - Brazil who finnaly was self-fulfilled by being a coder;
+ - :woman_technologist: I'm a Software Developer  from  Pernambuco :sunny:, Brazil  who finally was self-fulfilled by being a coder;
  - :nerd_face: I’m currently learning **Java**, **PHP**, **Microservices Architecture** and more about **Front-End Development**;
-  - :earth_americas: I support and volunteer with ![Women Who Code - Recife](https://www.womenwhocode.com/recife/about);
--  :office: I'm currently working as an Application Software Developer for Accenture Brazil;
+  - :earth_americas: Lead Volunteer at [Women Who Code - Recife](https://www.womenwhocode.com/recife/about);
+-  :office: Currently working as an Application Software Developer for Accenture Brazil;
 
-- :heart: Interests: History, Back-End Development, Vegan Food, Science, Mysteries of Cosmos, Black Holes, Quasars, Exoplanets, Time Travel and so on...
+- :heart: **Interests**: History, Back-End Development, Vegan Food, Science, Mysteries of Cosmos, Black Holes, Quasars, Exoplanets, Time Travel and so on...
 
 </br>
 
@@ -26,17 +26,13 @@
 ![Github](https://img.shields.io/badge/Github-black?style=for-the-badge&logo=GitHub&labelColor=black)
 ![VS Code](https://img.shields.io/badge/Visual%20Studio%20Code-black?style=for-the-badge&logo=Visual%20Studio%20Code&labelColor=black)
 ![Eclipse](https://img.shields.io/badge/Eclipse-black?style=for-the-badge&logo=Eclipse&labelColor=black)
-</br>
 
 ## Contact me:
 
 [![Linkedin Badge](https://img.shields.io/badge/allanacaldas-blue?style=flat&logo=linkedin&labelColor=blue)](https://www.linkedin.com/in/allanacaldas)
 [![Gmail Badge](https://img.shields.io/badge/-allanacaldas@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:contato.allanacaldas@gmail.com)](mailto:contato.allanacaldas@gmail.com)
 
-</br>
 
 ### The beginning is the end and the end is the beginning :watch:
-
-</br>
 
 [![HitCount](http://hits.dwyl.com/allanacaldas/allanacaldas.svg)](http://hits.dwyl.com/allanacaldas/allanacaldas)
