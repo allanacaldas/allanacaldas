@@ -4,14 +4,13 @@
 ![GitHub Logo](/assets/Sic_code_creatus_est2.png)
 
 
- - :woman_technologist: I'm a Software Developer  from  Pernambuco :sunny:, Brazil  who finally was self-fulfilled by being a coder;
+ - :woman_technologist: I'm a **Software Developer**  from  Pernambuco :sunny:, BR who finally was self-fulfilled by being a coder;
  - :nerd_face: I’m currently learning **Java**, **PHP**, **Microservices Architecture** and more about **Front-End Development**;
   - :earth_americas: Lead Volunteer at [Women Who Code - Recife](https://www.womenwhocode.com/recife/about);
 -  :office: Currently working as an Application Software Developer for Accenture Brazil;
 
 - :heart: **Interests**: History, Back-End Development, Vegan Food, Science, Mysteries of Cosmos, Black Holes, Quasars, Exoplanets, Time Travel and so on...
 
-</br>
 
 ## Languages and Tools:</br>
 
