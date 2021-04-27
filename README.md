@@ -5,11 +5,10 @@
 
 
  - :woman_technologist: I'm a **Software Developer**  from  Pernambuco :sunny:, BR who finally was self-fulfilled by being a coder;
- - :nerd_face: I’m currently learning **Java**, **PHP**, **Microservices Architecture** and more about **Front-End Development**;
-  - :earth_americas: Lead Volunteer at [Women Who Code - Recife](https://www.womenwhocode.com/recife/about);
--  :office: Currently working as an Application Development Associate for Accenture Brazil;
-
-- :heart: **Interests**: History, Back-End Development, Vegan Food, Science, Mysteries of Cosmos, Black Holes, Quasars, Exoplanets, Time Travel and so on...
+ - :nerd_face: I’m currently learning **Java**, **PHP** and more about **Microservices Architecture**;
+ - :earth_americas: Lead Volunteer at [Women Who Code - Recife](https://www.womenwhocode.com/recife/about);
+ -  :office: Currently working as an Application Development Associate for Accenture Brazil;
+ - :heart: **Interests**: History, Back-End , Vegan Food, Science, Mysteries of Cosmos, Black Holes, Quasars, Exoplanets, Time Travel and so on...
 
 
 ## Languages and Tools:</br>
@@ -33,5 +32,3 @@
 
 
 ### The beginning is the end and the end is the beginning :watch:
-
-[![HitCount](http://hits.dwyl.com/allanacaldas/allanacaldas.svg)](http://hits.dwyl.com/allanacaldas/allanacaldas)
