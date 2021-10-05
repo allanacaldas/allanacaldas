@@ -5,9 +5,9 @@
 
 
  - :woman_technologist: I'm a **Software Developer**  from  Pernambuco :sunny:, BR who finally was self-fulfilled by being a coder;
- - :nerd_face: I’m currently learning **Java**, **PHP** and more about **Microservices Architecture**;
+ - :nerd_face: I’m currently learning **Java**, **SpringBoot** and more about **Microservices Architecture**;
  - :earth_americas: Lead Volunteer at [Women Who Code - Recife](https://www.womenwhocode.com/recife/about);
- -  :office: Currently working as an Application Development Associate for Accenture Brazil;
+ -  :office: Currently working as **Software Engineer** for CI&T;
  - :heart: **Interests**: History, Back-End , Vegan Food, Science, Mysteries of Cosmos, Black Holes, Quasars, Exoplanets, Time Travel and so on...
 
 
