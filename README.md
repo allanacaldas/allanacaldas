@@ -4,7 +4,7 @@
 ![](/assets/Sic_code_creatus_est2.png)
 
  - :woman_technologist: I'm a **Software Developer**  from  Pernambuco :sunny:, BR who finally was self-fulfilled by being a coder;
- - :nerd_face: I’m currently learning **Java**, **SpringBoot** and more about **Microservices Architecture**;
+ - :nerd_face: I’m currently learning **Java**, **SpringBoot**, **Typescript** and more about **Microservices Architecture**;
  -  :office: Currently working as **Software Engineer** for CIandT;
  - :heart: **Interests**: History, Back-End , Vegan Food, Science, Mysteries of Cosmos, Black Holes, Quasars, Exoplanets, Time Travel and so on...
 
